@@ -6,7 +6,6 @@ Este projeto tem como objetivo aprender e praticar os fundamentos da criação d
 
 ## 📁 Estrutura inicial do projeto
 
-
 ---
 
 ## 📋 Lista de Tarefas
