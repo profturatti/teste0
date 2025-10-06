@@ -15,7 +15,7 @@ Este projeto tem como objetivo aprender e praticar os fundamentos da criação d
 
 ### 🧱 Etapa 1: Estrutura HTML básica
 
-- [ ] Criar o arquivo `index.html`
+- [X] Criar o arquivo `index.html`
 - [ ] Adicionar a estrutura HTML5 padrão (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
 - [ ] Inserir título da página no `<title>`
 - [ ] Adicionar um cabeçalho (`<header>`) com o nome do projeto ou autor
